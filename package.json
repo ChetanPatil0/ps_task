@@ -9,9 +9,18 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@qdrant/js-client-rest": "^1.17.0",
+    "axios": "^1.13.6",
+    "formik": "^2.4.9",
+    "mysql2": "^3.19.1",
     "next": "16.1.6",
+    "openai": "^6.27.0",
+    "pdf-parse": "^2.4.5",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "sanitize-html": "^2.17.1",
+    "yup": "^1.7.1"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",

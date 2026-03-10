@@ -1,0 +1,50 @@
+Title: Diabetes Mellitus
+
+Diabetes mellitus, commonly known as diabetes, is a group of metabolic disorders characterized by chronic hyperglycemia (high blood sugar) resulting from defects in insulin secretion, insulin action, or both. It is a major global health concern and affects millions of people worldwide. There are three main types of diabetes: Type 1, Type 2, and gestational diabetes.
+
+Causes:
+
+* Type 1 diabetes is an autoimmune disorder where the immune system attacks the insulin-producing beta cells in the pancreas, leading to little or no insulin production. Genetic factors and environmental triggers may contribute to its development.
+* Type 2 diabetes is caused by insulin resistance and relative insulin deficiency. Risk factors include obesity, sedentary lifestyle, poor diet, age, and genetic predisposition.
+* Gestational diabetes occurs during pregnancy and results from hormonal changes that impair insulin function.
+
+Symptoms:
+
+* Frequent urination (polyuria)
+* Excessive thirst (polydipsia)
+* Unexplained weight loss
+* Fatigue
+* Blurred vision
+* Slow-healing wounds
+* Increased susceptibility to infections
+
+Complications:
+If left uncontrolled, diabetes can lead to long-term complications affecting various organs:
+
+* Cardiovascular disease (heart attack, stroke)
+* Neuropathy (nerve damage)
+* Nephropathy (kidney damage)
+* Retinopathy (eye damage leading to blindness)
+* Foot ulcers and infections
+
+Diagnosis:
+
+* Fasting plasma glucose test
+* Oral glucose tolerance test
+* Glycated hemoglobin (HbA1c) test
+
+Treatment:
+
+* Lifestyle modifications (healthy diet, regular exercise)
+* Medications (oral hypoglycemic drugs)
+* Insulin therapy for Type 1 or advanced Type 2 diabetes
+* Regular monitoring of blood glucose levels
+
+Prevention and Management:
+
+* Maintain a balanced diet rich in fiber, vegetables, and whole grains
+* Engage in regular physical activity
+* Avoid excessive sugar and processed foods
+* Monitor blood sugar and blood pressure regularly
+* Educate oneself about disease management
+

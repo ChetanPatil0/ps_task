@@ -1,0 +1,46 @@
+
+Title: Malaria
+
+Malaria is a mosquito-borne infectious disease caused by Plasmodium parasites. It is transmitted to humans through the bite of infected female Anopheles mosquitoes. Malaria is most prevalent in tropical and subtropical regions, particularly in sub-Saharan Africa, Asia, and South America. It remains a significant public health challenge, responsible for hundreds of thousands of deaths annually, particularly among children under five years old.
+
+Causes:
+
+* The disease is caused by five species of Plasmodium parasites: P. falciparum, P. vivax, P. malariae, P. ovale, and P. knowlesi. P. falciparum is the most deadly.
+* Parasites are transmitted when an infected mosquito bites a human, introducing parasites into the bloodstream.
+
+Symptoms:
+
+* High fever and chills
+* Sweating
+* Headache
+* Nausea and vomiting
+* Fatigue
+* Muscle aches
+* Enlarged spleen in chronic cases
+
+Complications:
+
+* Severe anemia
+* Cerebral malaria (affecting the brain)
+* Organ failure (kidneys, liver)
+* Death if untreated
+
+Diagnosis:
+
+* Microscopic examination of blood smears
+* Rapid diagnostic tests detecting antigens
+* PCR testing for precise identification
+
+Treatment:
+
+* Antimalarial medications such as chloroquine, artemisinin-based combination therapy (ACT), or quinine depending on the parasite type and region
+* Supportive care for severe malaria, including hydration and treatment of complications
+
+Prevention:
+
+* Sleeping under insecticide-treated mosquito nets
+* Indoor residual spraying
+* Eliminating standing water to reduce mosquito breeding
+* Use of insect repellents and protective clothing
+* Prophylactic medications for travelers to endemic areas
+

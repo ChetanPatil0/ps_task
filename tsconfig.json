@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "app/lib/gemini.jsx", "app/api/search/route.jsx", "app/api/upload/route.jsx"  ],
   "exclude": ["node_modules"]
 }
